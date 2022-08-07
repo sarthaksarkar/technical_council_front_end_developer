@@ -1,0 +1,37 @@
+.navbar ul {
+
+    border-radius: 5px;
+    background-color: rgb(23, 237, 16);
+
+
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    padding: 3px 3px;
+}
+
+.navbar ul {
+    overflow: auto;
+    height: 30px;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    margin: 13px 20px;
+
+
+
+}
+
+.search {
+    margin-left: 1195px;
+    margin-top: 5px;
+}
+
+.id:hover {
+    text-decoration: underline;
+}
